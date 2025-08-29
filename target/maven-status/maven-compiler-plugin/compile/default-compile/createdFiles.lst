@@ -1,0 +1,6 @@
+com\bajaj\challenge\BajajChallengeApplication.class
+com\bajaj\challenge\model\SolutionRequest.class
+com\bajaj\challenge\model\WebhookRequest.class
+com\bajaj\challenge\service\StartupService.class
+com\bajaj\challenge\config\AppConfig.class
+com\bajaj\challenge\model\WebhookResponse.class
